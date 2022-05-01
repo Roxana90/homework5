@@ -1,0 +1,22 @@
+[
+  {
+    "name": "t-shirt",
+    "normal price": "50",
+    "price": "40",
+    "colour": "green",
+    "size": "XL",
+    "gender": "M",
+    "quantity": "20000",
+    "sales": "150"
+  },
+  {
+    "name": "t-shirt",
+    "normal price": "50",
+    "price": "40",
+    "colour": "green",
+    "size": "M",
+    "gender": "M",
+    "quantity": "20000",
+    "sales": "150"
+  }
+]
